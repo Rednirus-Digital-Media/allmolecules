@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pharmapcdbazaar",
+  "private_key_id": "46c1d8787967a8e2259241412ae3f6881c1e0f44",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCJ9dE0XwoOsB0a\nAt8MdSsTVvVIE2kcoxcgS5wRHKG5FpyO+gpmTfQBxynlGHIeae5717ofzShU/HH6\n982L4X+FaLCGM8Xyj4faMEYj4bwin2Sh14muQUBLhx2EPNEyHxj8JrsVg1EqwrCE\n3xg6c0PP6WnDhnaDHHZDbDOeS5l6hy8c/+zEXVcLQYZTgTjeuo7/yLVQyVSfvrke\n4ki4Csw9KMeidPB3mvawIxoU202l16HkbbHfCznbWG8y9S3edY5nu9pFayCekmQU\nGInh3ikKAlRGUzaKknfeaMyS30hRAkTcdvfFlpWMVX9qjFYbHnYEdECw3Rx5i86g\nmO9N0WlLAgMBAAECggEAGTMooptVl/c9aZnqqjjgxGiW5zJ8ebmkqMaG3G1RcSCb\nOlab/bHxhz2c/nbnqXyKDl8KZXKxEk0GeOQ4zHtFMtY7oFfmqXbkRsuYlEdQeTaK\nSDG5uXW7y9ADaTs+rxwVEUH13GkfM2NaoPqrT0nsshadthRio3JYe9pQ13JRt5qj\nIzqTLyjTEId+UBHGLSxMhc8WgjXQJwQ+HP2CxDti4aZhX4cJcJG0JfVbTtMga8II\ncoK31FDmO8MYpZWvJGeVD90vDqNrfjrh+C0k573t8Emvtev8XsiWwADHupfmUSnw\nbQDWsnxvUGzj6hKJJsknJm/Lro0GSBc2Igh0FLFU+QKBgQDCfO1wpgh+KzlOpfOX\nDdKyjBSb2jCpTWtG2T/6kroM4fXl+qwlHQp946EmdQezjSTrLHZ8gFGhtcDQbClA\nlVBDZmjmAqPvulG4XorLqtkEauJ0W8XKTpBxaSSBlvRbyS6B5m6GYts0tkT5SRRT\nDL9drIvI0+82iiNOfw3LCmBVBwKBgQC1mAQl5lhkbRjbwMxDd2uvU8i1NDXc2lj7\neSiWQvOn9dQEXYFj9zTdUM5P1SbIzcbVKMSgKoIyBO4oGLcq+saGqOnDUHnGQIVa\n6lRYCi3jaf2jJfzliP6tgVELSp9Z6d87kuLrKpftGn4CCUtKhJpKSUKwZcc812dX\nR8ns9WucnQKBgQCXaEJAzEEYV/YJMFBubCh3L25r1nTDmK3HPiH8pHWKye5w17Fk\nQzODxc4S7lDMizkOjFLBofPq/F/a4hlLWfJeRj+rsKqHWnl8Gr3ayGqiccNR6pAU\naw0v/TaaXDZnrjsyjX3FyPf2FV+k4iuca/QerNE1yygTQX8zAN5wDufnyQKBgHuE\nP+YLjLoaXtsyg32sX+msootmTPDA79905L94IMVw91pUw6rcPe//g6VXhX72QLVC\neqO65j3hjqBlV0l7s8dqYz5/oaTQxCQ32VDc86OIt4XeU+tIyHn5yMdWZZdB9Z5O\n5dwxZ49WArmd2sF/+nZm6F6Vi/R9S4RZhyaPNDgdAoGAbUxF0WMI9GHziQG21xle\nX+uL6kjmT7MjoUI2ZqZal6eoqQVnmwpP5yG5oeD80k4mTLulC/1CgzJw15Y5zzJ2\nmGAoDV/5NQfHMNc56IPCjV2PYwJAlFGwCsYUwcPd6YDwlwOiiKTspvbfQAMjHWTI\n2XhKb3Bv1VrTgiyvK5VbWEc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pharmapcdbazaar@pharmapcdbazaar.iam.gserviceaccount.com",
+  "client_id": "101132959348181924795",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pharmapcdbazaar%40pharmapcdbazaar.iam.gserviceaccount.com"
+}
